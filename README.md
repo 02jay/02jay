@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @02jay
-- 👀 I’m interested in artificial intelligence and want to know about the robots and how this digital work. 
+Jay Prakash's Github Profile
+Welcome to my Github profile! My name is Jay Prakash and I am a student developer and content writer.
 
-- 🌱 I’m currently learning web development, java
-- 💞️ I’m looking to collaborate on this platform. 
-- 📫 How to reach me you can reach me via Instagram my instagram page is urbancinematics
+On this profile, you will find a variety of projects that showcase my skills in coding and my passion for creating engaging and informative content. From web and mobile applications to writing samples, I strive to deliver quality work and constantly push myself to learn and improve.
 
-<!---
-02jay/02jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and if you have any questions or want to collaborate on a project, feel free to reach out to me.
+
+Thank you for visiting my profile!
